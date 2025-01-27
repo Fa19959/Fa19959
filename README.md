@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am Full Stack Developer
+
 
 *   🌍  I'm based in Musact - Oman
 *   ✉️  You can contact me at [Fatma.Mamari@Codeline.rihal.om](mailto:Fatma.Mamari@Codeline.rihal.om)
